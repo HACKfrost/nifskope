@@ -30,7 +30,7 @@ THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ***** END LICENCE BLOCK *****/
 
-#include "fileselect.h"
+#include "fileselect.h" //test
 
 #include <QAction>
 #include <QApplication>
